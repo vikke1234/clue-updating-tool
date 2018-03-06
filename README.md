@@ -1,5 +1,5 @@
 # clue-updating-tool
 
-##todos:
+## todos:
 add other clues
 optimize code
